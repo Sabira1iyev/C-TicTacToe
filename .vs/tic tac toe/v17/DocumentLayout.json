@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\tic tac toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B7DEAB-0738-4C04-9D52-1DB54C2DDD76}|tic tac toe\\tic tac toe.vcxproj|C:\\Users\\User\\source\\repos\\tic tac toe\\tic tac toe\\tic tac toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91B7DEAB-0738-4C04-9D52-1DB54C2DDD76}|tic tac toe\\tic tac toe.vcxproj|solutionrelative:tic tac toe\\tic tac toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tic tac toe.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\tic tac toe\\tic tac toe\\tic tac toe.cpp",
+              "RelativeDocumentMoniker": "tic tac toe\\tic tac toe.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\tic tac toe\\tic tac toe\\tic tac toe.cpp",
+              "RelativeToolTip": "tic tac toe\\tic tac toe.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T09:34:18.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
